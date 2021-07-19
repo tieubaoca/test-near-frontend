@@ -1,0 +1,14 @@
+{
+  "name": "test-near-frontend",
+  "version": "1.0.0",
+  "description": "The Test Front-end On NEAR",
+  "main": "index.html",
+  "repository": "https://github.com/tieubaoca/test-near-frontend.git",
+  "author": "Tran Bao MTA",
+  "license": "MIT",
+  "private": false
+,
+"dependencies": {
+  "near-api-js": "^0.42.0",
+  "regenerator-runtime": "^0.13.7"}
+}
